@@ -64,6 +64,8 @@ personagens.forEach(personagem => {
     })
 });
 
+//teste
+
 
 
 
