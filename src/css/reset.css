@@ -1,0 +1,15 @@
+/* Essa página da um reset de todos os estilos, paddins, bordas, margens, etc*/
+/* Essa página é muito importante para que o site fique com a cara que queremos */
+/* margin: 0: zera os espaçamentos internos (entre os elementos) */
+/* padding: 0: zera os espaçamentos internos */
+/* list-style: none: Não mostra os pontos das listas */
+
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none; 
+}
